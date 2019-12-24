@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':lib_utils'
 rootProject.name='opengl_es'
